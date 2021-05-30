@@ -1,0 +1,13 @@
+target
+*.class
+*.log
+
+project/*
+!project/plugins.sbt
+
+.bloop
+.bsp
+.metals
+
+.DS_Store
+
